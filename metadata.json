@@ -1,0 +1,6 @@
+{
+  "name": "Bangladesh Government Employees Pay Fixation 2026",
+  "description": "Professional salary fixation system, animated interactive dashboard, service history, arrears engine, and verifiable Excel calculator for Bangladesh Government and Military Engineer Services (MES) employees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
